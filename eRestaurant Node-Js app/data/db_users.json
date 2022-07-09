@@ -1,0 +1,22 @@
+[
+  {
+    "id": "52fffc4a-a95e-4166-83d9-d43ffba6a845",
+    "firstName": "Aleksandar",
+    "lastName": "Ichev",
+    "age": 27,
+    "role": "admin",
+    "email": "test@gmail.com",
+    "password": "$2a$08$ve3Sysqq/ptdHjxvnQ11KevfB4qVaigr9o04QV9iKE4Uf.wuM2rC2",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI1MmZmZmM0YS1hOTVlLTQxNjYtODNkOS1kNDNmZmJhNmE4NDUiLCJpYXQiOjE2NTExNjY5NTYsImV4cCI6MTY1MjM3NjU1Nn0.JC3WTlY2GO2_KrDz4usSZvpje6a2yp0walon558nLPU"
+  },
+  {
+    "id": "d46ba025-5eb5-4a1b-b031-cf294308b254",
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 33,
+    "role": "user",
+    "email": "johndoe@gmail.com",
+    "password": "$2a$08$7V8Y1VRjmBzx2tmvoASBF.BBF.VXomyfI6eF4ObjR8LU7GZUu.PwW",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJkNDZiYTAyNS01ZWI1LTRhMWItYjAzMS1jZjI5NDMwOGIyNTQiLCJpYXQiOjE2NTE5Mjc4NjcsImV4cCI6MTY1MzEzNzQ2N30.f2H3o8OGZYxvsuVjJkIdtR3L3njXFiJqBAfLXhFj8Lc"
+  }
+]

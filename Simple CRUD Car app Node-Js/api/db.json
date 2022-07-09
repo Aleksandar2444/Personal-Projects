@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Hyundai",
+    "model": "Kona",
+    "year": "2021",
+    "price": "799.99",
+    "isRented": false,
+    "id": "1"
+  },
+  {
+    "brand": "Honda",
+    "model": "Fit",
+    "year": "2020",
+    "price": "699.99",
+    "isRented": false,
+    "id": "2"
+  },
+  {
+    "model": "Q8",
+    "year": "2021",
+    "price": "65.399",
+    "isRented": false,
+    "id": "3",
+    "brand": "Audi"
+  },
+  {
+    "brand": "Dodge",
+    "model": "Ram",
+    "year": "2022",
+    "price": "48.900",
+    "id": "d977c781-55a5-4170-bd04-4c7b27831aff",
+    "isRented": false
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": "2020",
+    "price": "39.900",
+    "id": "c32b0523-170d-4b46-8db6-7de2eb991f5d",
+    "isRented": false
+  }
+]

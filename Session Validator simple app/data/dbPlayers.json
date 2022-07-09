@@ -1,0 +1,66 @@
+[
+  {
+    "id": "7ca2298c-6c7c-4816-bded-510cedd50f31",
+    "firstName": "Mason",
+    "lastName": "Mount",
+    "age": 23,
+    "email": "masonmount@gmail.com",
+    "team": "Chelsea F.C"
+  },
+  {
+    "id": "cd32df6f-c181-4584-a2e4-0f7176e2f444",
+    "firstName": "Kevin De",
+    "lastName": "Bruyne",
+    "age": 30,
+    "email": "kevindebruyne@gmail.com",
+    "team": "Manchester City F.C"
+  },
+  {
+    "id": "23123123",
+    "firstName": "Dushan",
+    "lastName": "Vlahovic",
+    "age": 22,
+    "email": "dushanvlahovic@gmail.com",
+    "team": "Juventus F.C"
+  },
+  {
+    "id": "84e090e3-7f32-46dd-93c2-6a42de8c96fc",
+    "firstName": "Kylian",
+    "lastName": "Mbappe",
+    "age": 23,
+    "email": "kylianmbappe@gmail.com",
+    "team": "PSG F.C"
+  },
+  {
+    "id": "3454ff02-d39d-4819-802d-ed24ae2fef76",
+    "firstName": "Karim",
+    "lastName": "Benzema",
+    "age": 34,
+    "email": "karimbenzema@gmail.com",
+    "team": "Real Madrid F.C"
+  },
+  {
+    "id": "3454ff02-d39d-4819-802d-ed24ae2fef71",
+    "firstName": "Thomas",
+    "lastName": "Muller",
+    "age": 32,
+    "email": "thomasmuller@gmail.com",
+    "team": "Bayern Munich F.C"
+  },
+  {
+    "id": "81ea183e-7197-4307-97fb-71e758cea8a4",
+    "firstName": "Didier",
+    "lastName": "Drogba",
+    "age": 43,
+    "email": "drogba@gmail.com",
+    "team": "Retired"
+  },
+  {
+    "id": "51beff66-f274-4974-b4db-5a9a09e224de",
+    "firstName": "Ronaldinho",
+    "lastName": "Unknown",
+    "age": "Unknown",
+    "email": "ronaldinho@gmail.com",
+    "team": "Retired"
+  }
+]

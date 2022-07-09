@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wqdwq123dsad13",
+    "name": "dinner plate",
+    "price": 350.45
+  },
+  {
+    "id": "962c7829-252c-4b75-8805-240f0e65a822",
+    "name": "dessert plate",
+    "price": 90.25
+  },
+  {
+    "id": "0025a646-0711-4288-b0ca-111066fb2726",
+    "name": "rice bowl",
+    "price": 120.37
+  },
+  {
+    "id": "f0f7d23e-9502-4864-9fe7-104b79bcdf0f",
+    "name": "fish plate",
+    "price": 270.99
+  },
+  {
+    "id": "6854f000-5057-459e-84dd-f1ae93c67aa5",
+    "name": "pancake",
+    "price": 35.99
+  },
+  {
+    "id": "5ae857a3-c4a9-475b-9f6a-541d032c021a",
+    "name": "salom",
+    "price": 200
+  }
+]
